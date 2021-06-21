@@ -1,8 +1,4 @@
-/*
-Solution of assignment 4:
 
-By Sandip Pradhan
-*/
 (function(window) {
     var helloSpeaker = new Object();
     var speakWord = "Hello";
