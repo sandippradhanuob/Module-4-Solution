@@ -1,8 +1,3 @@
-/*
-Solution of assignment 4:
-
-By Sandip Pradhan
-*/
 
 (function() {
     var names = ["Jenish", "Prabin", "Jems", "Ram", "Jeson", "Karina", "Salman", "Cheranjibi", "Biaksh", "Jodah"];
